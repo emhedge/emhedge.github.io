@@ -1,3 +1,6 @@
+***NOTE: I did not build this site. I experimented with this template before starting the Odin Project, wondering if it would be feasible for me to build my own portfolio website. Give it some time and I'll circle back here to develop this further. 
+At this time, though, I can't take credit (for better or worse) for what's in this repo. All credit goes to HTML5 UP. Their stuff looks great.
+
 Prologue by HTML5 UP
 html5up.net | @ajlkn
 Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
